@@ -51,11 +51,15 @@
         <Compile Include="FileLogger.cs" />
         <Compile Include="Log.cs" />
         <Compile Include="DbLogger.cs" />
+        <Compile Include="Logger.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
       <None Include="App.config" />
       <None Include="packages.config" />
+    </ItemGroup>
+    <ItemGroup>
+      <Content Include="log.txt" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

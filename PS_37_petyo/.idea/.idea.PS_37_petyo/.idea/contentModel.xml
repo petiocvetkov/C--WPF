@@ -67,6 +67,8 @@
         <e p="DbLogger.cs" t="Include" />
         <e p="FileLogger.cs" t="Include" />
         <e p="Log.cs" t="Include" />
+        <e p="log.txt" t="Include" />
+        <e p="Logger.cs" t="Include" />
         <e p="Logger.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
@@ -121,10 +123,6 @@
       <e p="UserLogin" t="IncludeRecursive">
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Log.cs" t="Include" />
-        <e p="log.txt" t="Include" />
-        <e p="LogContext.cs" t="Include" />
-        <e p="Logger.cs" t="Include" />
         <e p="LoginValidation.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />

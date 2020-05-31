@@ -12,6 +12,7 @@ namespace StudentInfoSystem
         {
             InitializeComponent();
             _validation = new StudentValidation(message => MessageBox.Show(message));
+            Logger.Logger.plant();
             UserData.ResetTestUserData();
             StudentData.AddStudents();
         }

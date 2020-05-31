@@ -64,7 +64,7 @@ namespace UserLogin
                 if (user.Username.Equals(username))
                 {
                     user.ActiveTo = activeTo;
-                    Logger.LogActivity("Update activity to " + username);
+                    Logger.Logger.Instance.LogActivity(LoginValidation.currentUserUsername, LoginValidation.currentUserRole.ToString(), "Update activity to " + username);
                     break;
                 }
         }

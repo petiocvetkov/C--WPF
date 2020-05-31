@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace UserLogin
 {
@@ -78,7 +74,7 @@ namespace UserLogin
                 currentUserUsername = user.Username;
                 currentUserRole = (UserRoles) Enum.Parse(typeof(UserRoles), user.Role);
                 getLastLogin(user.Username);
-                Logger.LogActivity("Success Login");
+                Logger.Logger.Instance.LogActivity(LoginValidation.currentUserUsername, LoginValidation.currentUserRole.ToString(),"Success Login");
                 return true;
             }
             else
@@ -94,7 +90,7 @@ namespace UserLogin
         private void getLastLogin(string username)
         {
             List<string> list = new List<string>();
-            list.AddRange(File.ReadAllText(Logger.FileName).Split('\n'));
+            list.AddRange(File.ReadAllText(Logger.FileLogger.FileName).Split('\n'));
 
             string lastLog = list.FindLast(s => s != "" && s.Split(';')[1] == username);
 

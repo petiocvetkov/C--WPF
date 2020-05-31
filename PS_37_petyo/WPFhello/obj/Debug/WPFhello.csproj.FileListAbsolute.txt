@@ -12,3 +12,17 @@ C:\Users\PC\Desktop\PS_37_petyo\WPFhello\obj\Debug\WPFhello_.Properties.Resource
 C:\Users\PC\Desktop\PS_37_petyo\WPFhello\obj\Debug\WPFhello.csproj.GenerateResource.cache
 C:\Users\PC\Desktop\PS_37_petyo\WPFhello\obj\Debug\WPFhello_.exe
 C:\Users\PC\Desktop\PS_37_petyo\WPFhello\obj\Debug\WPFhello_.pdb
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\bin\Debug\WPFhello_.exe.config
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\bin\Debug\WPFhello_.exe
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\bin\Debug\WPFhello_.pdb
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\obj\Debug\WPFhello.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\obj\Debug\WPFhello__MarkupCompile.cache
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\obj\Debug\WPFhello__MarkupCompile.lref
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\obj\Debug\WPFhello_.g.resources
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\obj\Debug\WPFhello_.Properties.Resources.resources
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\obj\Debug\WPFhello.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\obj\Debug\WPFhello_.exe
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\WPFhello\obj\Debug\WPFhello_.pdb

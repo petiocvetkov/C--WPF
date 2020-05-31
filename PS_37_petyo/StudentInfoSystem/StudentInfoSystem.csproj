@@ -101,6 +101,10 @@
         <Project>{1be8a1d3-7d15-4f90-a632-0fa41fb5ddad}</Project>
         <Name>EasyMVVM</Name>
       </ProjectReference>
+      <ProjectReference Include="..\Logger\Logger.csproj">
+        <Project>{ee5b482d-8c3f-42d1-b74e-a78f12ce7be6}</Project>
+        <Name>Logger</Name>
+      </ProjectReference>
       <ProjectReference Include="..\StudentRepository\StudentRepository.csproj">
         <Project>{0c580688-ab19-4447-a6cf-cd4285b5abce}</Project>
         <Name>StudentRepository</Name>

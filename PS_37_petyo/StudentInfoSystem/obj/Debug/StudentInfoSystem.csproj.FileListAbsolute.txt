@@ -60,3 +60,6 @@ C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\StudentInfoSystem\obj\Debug\StudentI
 C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
 C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
 C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\StudentInfoSystem\bin\Debug\Logger.dll
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\StudentInfoSystem\bin\Debug\Logger.pdb
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\StudentInfoSystem\bin\Debug\Logger.dll.config

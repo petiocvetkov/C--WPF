@@ -51,12 +51,12 @@ namespace UserLogin
                             Console.WriteLine(user.ToString());
                         break;
                     case 4:
-                        StreamReader reader = new StreamReader(Logger.FileName);
+                        StreamReader reader = new StreamReader(Logger.FileLogger.FileName);
                         Console.WriteLine(reader.ReadToEnd());
                         reader.Close();
                         break;
                     case 5:
-                        Console.WriteLine(Logger.GetCurrentSessionActivities());
+                        Console.WriteLine(Logger.Logger.Instance.GetCurrentSessionActivities());
                         break;
                 }
             }
@@ -80,7 +80,7 @@ namespace UserLogin
                     break;
             }
 
-            
+
             UserData.AssignUserRole(UserData.TestUsers
                 .Where(user => user.Username.Equals(user))
                 .First().UserId, (UserRoles) role);

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UserLogin
+namespace Logger
 {
     public class Log
     {

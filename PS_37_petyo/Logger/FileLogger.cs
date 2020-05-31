@@ -1,5 +1,6 @@
 ﻿using System;
-using UserLogin;
+using System.Data.SqlClient;
+using System.IO;
 
 namespace Logger
 {
@@ -7,7 +8,21 @@ namespace Logger
     {
         private static FileLogger _instance = null;
 
-        private static String fileName = "";
+        private static String _fileName = "log.txt";
+
+        public static string FileName
+        {
+            get => _fileName;
+        }
+
+        public static void plant(String fileName)
+        {
+            if (!string.IsNullOrEmpty(fileName))
+            {
+                _fileName = fileName;
+            }
+            _instance = new FileLogger();
+        }
 
         public static FileLogger Instance
         {
@@ -19,9 +34,14 @@ namespace Logger
             }
         }
 
-        public void log(String activity)
+        public void log(string user,string role, String activity)
         {
-            
+            string activityLine = DateTime.Now + ";"
+                                               + user + ";"
+                                               + role + ";"
+                                               + activity;
+            if (File.Exists(FileName))
+                File.AppendAllText(FileName, activityLine + "\n");
         }
     }
 }

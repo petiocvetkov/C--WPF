@@ -38,3 +38,6 @@ C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\UserLogin\obj\Debug\UserLogin.csproj
 C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\UserLogin\obj\Debug\UserLogin.csproj.CopyComplete
 C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\UserLogin\obj\Debug\UserLogin.exe
 C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\UserLogin\obj\Debug\UserLogin.pdb
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\UserLogin\bin\Debug\Logger.dll
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\UserLogin\bin\Debug\Logger.pdb
+C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\UserLogin\bin\Debug\Logger.dll.config
