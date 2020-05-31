@@ -1,0 +1,9 @@
+﻿3/5/2020 2:36:51 PM;admin;ADMIN;Успешен Login
+3/5/2020 2:38:15 PM;admin;ADMIN;Успешен Login
+3/5/2020 2:38:27 PM;admin;ADMIN;Успешен Login
+3/5/2020 2:41:41 PM;student1;STUDENT;Успешен Login
+3/5/2020 2:42:00 PM;student1;STUDENT;Успешен Login
+3/5/2020 2:44:05 PM;student1;STUDENT;Успешен Login
+3/25/2020 8:43:22 PM;admin;ADMIN;Успешен Login
+3/25/2020 8:43:39 PM;admin;ADMIN;Промяна на роля на student1
+3/25/2020 8:44:04 PM;admin;ADMIN;Промяна на активност на admin
