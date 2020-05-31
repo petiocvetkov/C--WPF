@@ -20,7 +20,7 @@ namespace UserLogin
         
         public DbSet<User> Users { get; set; }
 
-        protected UserContext() : base("Data Source=(local);Initial Catalog=StudentInfoDatabase;Integrated Security=True")
+        private UserContext() : base("Data Source=(local);Initial Catalog=StudentInfoDatabase;Integrated Security=True")
         {
         }
     }
