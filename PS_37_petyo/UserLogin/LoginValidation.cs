@@ -90,8 +90,10 @@ namespace UserLogin
         private void getLastLogin(string username)
         {
             List<string> list = new List<string>();
-            list.AddRange(File.ReadAllText(Logger.FileLogger.FileName).Split('\n'));
-
+            if (File.Exists(Logger.FileLogger.FileName))
+            {
+                list.AddRange(File.ReadAllText(Logger.FileLogger.FileName).Split('\n'));
+            }
             string lastLog = list.FindLast(s => s != "" && s.Split(';')[1] == username);
 
             if (lastLog != null)

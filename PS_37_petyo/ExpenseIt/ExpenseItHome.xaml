@@ -12,7 +12,7 @@
             <ColumnDefinition Width="230" />
         </Grid.ColumnDefinitions>
         <Grid.Background>
-            <ImageBrush ImageSource="C:\Users\PC\Desktop\PS_37_petyo\ExpenseIt\watermark.png" />
+            <ImageBrush ImageSource="C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\ExpenseIt\watermark.png" />
         </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />

@@ -29,7 +29,6 @@ C:\Users\PC\Desktop\PS_37_petyo\StudentInfoSystem\bin\Debug\EntityFramework.SqlS
 C:\Users\PC\Desktop\PS_37_petyo\StudentInfoSystem\bin\Debug\StudentRepository.exe.config
 C:\Users\PC\Desktop\PS_37_petyo\StudentInfoSystem\bin\Debug\EntityFramework.xml
 C:\Users\PC\Desktop\PS_37_petyo\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\StudentInfoSystem\bin\Debug\log.txt
 C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
 C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
 C:\Users\PC\Desktop\WPF-profect\PS_37_petyo\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb

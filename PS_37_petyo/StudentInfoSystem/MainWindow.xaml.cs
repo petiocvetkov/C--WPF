@@ -65,11 +65,16 @@ namespace StudentInfoSystem
 
         private void BtnClearData_Click(object sender, RoutedEventArgs e)
         {
-            foreach (UIElement child in MyMainWindowGrid.Children)
-            {
-                if (child is TextBox)
-                    ((TextBox) child).Text = "";
-            }
+            txtCourse.Text = "";
+            txtDegree.Text = "";
+            txtFaculty.Text = "";
+            txtFacultyNumber.Text = "";
+            txtFirstName.Text = "";
+            txtGroup.Text = "";
+            txtLastName.Text = "";
+            txtSpecialty.Text = "";
+            txtStream.Text = "";
+            txtSurName.Text = "";
         }
 
         private void BtnFillData_Click(object sender, RoutedEventArgs e)

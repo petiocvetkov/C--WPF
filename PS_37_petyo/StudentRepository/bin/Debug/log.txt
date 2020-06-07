@@ -1,6 +1,0 @@
-﻿3/5/2020 2:36:51 PM;admin;ADMIN;Успешен Login
-3/5/2020 2:38:15 PM;admin;ADMIN;Успешен Login
-3/5/2020 2:38:27 PM;admin;ADMIN;Успешен Login
-3/5/2020 2:41:41 PM;student1;STUDENT;Успешен Login
-3/5/2020 2:42:00 PM;student1;STUDENT;Успешен Login
-3/5/2020 2:44:05 PM;student1;STUDENT;Успешен Login
